@@ -1,0 +1,17 @@
+.footer {
+    width: 100%;
+    background-color: lighten($tertiary-color, 10%);
+    color: $quartiary-color;
+    padding: 1rem;
+
+    .footer-text {
+        padding: 0;
+        margin-top: 0;
+    }
+
+    a {
+        color: $secondary-color;
+        font-weight: bold;
+    }
+
+}
